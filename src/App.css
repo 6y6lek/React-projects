@@ -1,0 +1,37 @@
+
+h1 {
+  margin: 20px 0 15px 0;  
+}
+
+#main {
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+ul>li:hover {
+  background-color: #F5F5F5;
+}
+
+.form-inline .form-control {
+  width: 50%;
+  margin-left: 80px;
+}
+
+
+
+.icon {
+  margin: 6px 10px 6px 0;
+}
+.App {
+  text-align: left;
+}
+
+.Todo-completed {
+  color: red;
+  text-decoration: line-through;
+}
